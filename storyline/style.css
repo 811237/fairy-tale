@@ -1,8 +1,32 @@
+/**/
 
 h1{
     text-align: center;
 }
 
-img{
-    width:200px;
-    height:200px;
+.title-sep {
+    
+}
+
+/*Choices for story*/
+
+.choice {
+    font-size: 24px;
+    
+}
+
+#1 {
+    
+}
+
+a:link {
+    color: rgb(44, 174, 214);
+}
+
+/*End of choice styling*/
+
+/*Font styles*/
+
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap" rel="stylesheet"> */
