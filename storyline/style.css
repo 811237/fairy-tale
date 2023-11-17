@@ -7,12 +7,14 @@ h1{
 .left{
     padding-left:70px;
     padding-top: 150px;
-    padding-right: 100px;;
+    padding-right: 90px;;
     width:300px
 }
 td{
-    padding-top: 25px;
+    padding-top: 150px;
     padding-right: 75px;
+    line-height:35px;
+    text-align:center;
 }
 .title-sep {
     
