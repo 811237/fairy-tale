@@ -4,6 +4,16 @@ h1{
     text-align: center;
 }
 
+.left{
+    padding-left:70px;
+    padding-top: 150px;
+    padding-right: 100px;;
+    width:300px
+}
+td{
+    padding-top: 25px;
+    padding-right: 75px;
+}
 .title-sep {
     
 }
