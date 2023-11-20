@@ -43,6 +43,26 @@ img{
     
 }
 
+.firstChoice{
+    margin-left:150px;
+    border: 1px solid #0b121b;
+    background: rgb(105, 52, 83);
+    color: #fff;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 16px 30px;
+    border-radius: 30px;
+    box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+    cursor: pointer;
+}
+
+td{
+    padding-top: px;
+    padding-right: 75px;
+    line-height:35px;
+    text-align:center;
+}
+
 .title-sep {
     
 }
