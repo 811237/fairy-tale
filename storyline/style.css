@@ -6,6 +6,12 @@ h1{
     letter-spacing: 3.5px;
 }
 
+h2{
+    text-align:center;
+    font-family: 'Motlleg Fantasy', sans-serif;
+    letter-spacing: 3.5px;
+}
+
 .left{
     padding-left:70px;
     padding-top: 150px;
@@ -36,13 +42,14 @@ td{
     margin-bottom: 50px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
-    color: #fff;
+    color: #ffffff;
     font-size: 16px;
     line-height: 30px;
     padding: 16px 30px;
     border-radius: 30px;
     box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
     cursor: pointer;
+    
 }
 
 .title-sep {
@@ -83,6 +90,7 @@ p.script {
 
 a:link {
     color: rgb(44, 174, 214);
+    text-decoration: none;
 }
 
 /*End of choice styling*/
