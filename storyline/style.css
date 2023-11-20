@@ -23,12 +23,31 @@ h5{
     text-align: right;
     font-size: 20px;
 }
+h6{
+    font-weight:normal;
+    text-align: right;
+    font-size: 20px;
+}
 img{
     align-content: left;
     height: 250px;
     width: 250px;
 }
 .secondChoice{
+    margin-left:195px;
+    margin-bottom: 50px;
+    border: 1px solid #0b121b;
+    background: rgb(105, 52, 83);
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 16px 30px;
+    border-radius: 30px;
+    box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+    cursor: pointer;
+    
+}
+.firstChoice{
     margin-left:195px;
     margin-bottom: 50px;
     border: 1px solid #0b121b;
