@@ -4,9 +4,19 @@ h1{
     font-family: 'Motlleg Fantasy', sans-serif;
     letter-spacing: 3.5px;
 }
-h6{
-    text-align: center;
-    font-size: 40px;
+
+h2{
+    text-align:center;
+    font-family: 'Motlleg Fantasy', sans-serif;
+    letter-spacing: 3.5px;
+}
+
+.left{
+    padding-left:70px;
+    padding-top: 150px;
+    padding-right: 90px;;
+    padding-bottom: 150px;
+    width:300px
 }
 h5{
     font-weight:normal;
@@ -18,3 +28,66 @@ img{
     height: 250px;
     width: 250px;
 }
+.secondChoice{
+    margin-left:195px;
+    margin-bottom: 50px;
+    border: 1px solid #0b121b;
+    background: rgb(105, 52, 83);
+    color: #ffffff;
+    font-size: 16px;
+    line-height: 30px;
+    padding: 16px 30px;
+    border-radius: 30px;
+    box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
+    cursor: pointer;
+    
+}
+
+.title-sep {
+    
+}
+
+.script {
+    font-size: 18px;
+    font-family: 'Motlleg Fantasy', sans-serif;
+}
+
+p.script {
+    margin-left: %;
+}
+
+.story {
+    height: 600px;
+    width: 60%;
+    border: 2px solid black ;
+
+}
+
+/*Choices for story*/
+
+.choice {
+    font-size: 24px;
+    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+}
+
+/*will be used to selectively style certain choices*/
+#choice1 {
+    
+}
+
+#choice2 {
+
+}
+
+a:link {
+    color: rgb(44, 174, 214);
+    text-decoration: none;
+}
+
+/*End of choice styling*/
+
+/*Font styles*/
+
+/* <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jacques+Francois+Shadow&display=swap" rel="stylesheet"> */
