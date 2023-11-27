@@ -45,14 +45,14 @@ img{
 }
 
 .secondChoice{
-    text-align:right;
-    margin-left:195px;
+    text-align:center;
+    margin-left:150px;
     margin-bottom: 50px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
     font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
-    font-size: 16px;
+    font-size: 24px;
     line-height: 30px;
     padding: 16px 30px;
     border-radius: 30px;
@@ -68,14 +68,18 @@ img{
 .firstChoice:hover{
     background:rgb(172, 103, 143);
     border: 1px solid rgb(172, 103, 143);
+    font-size:30px; 
+
 }
 .firstChoice{
     margin-left:150px;
+    text-align: center;
     margin-bottom: 50px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
-    font-size: 16px;
+    font-size: 24px;
+    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
     line-height: 30px;
     padding: 16px 30px;
     border-radius: 30px;
@@ -84,18 +88,6 @@ img{
     
 }
 
-.firstChoice{
-    border: 1px solid #0b121b;
-    background: rgb(105, 52, 83);
-    color: #fff;
-    font-size: 24px;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
-    line-height: 30px;
-    padding: 16px 30px;
-    border-radius: 30px;
-    box-shadow: rgba(37,39,89,0.08) 0px 8px 8px 0;
-    cursor: pointer;
-}
 
 #white{
     width:250px;
@@ -122,6 +114,8 @@ td{
 
 p{
     text-align: center;
+    padding-left: 30px;
+    margin-left: 75px;
     font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
     font-size: 30px;
 }
@@ -148,9 +142,7 @@ p{
     font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
 }
 
-button:hover{
-    font-size: x-large;
-}
+
 
 a:link {
     color: rgb(255, 255, 255);
