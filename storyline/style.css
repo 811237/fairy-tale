@@ -58,6 +58,11 @@ img{
     cursor: pointer;
 }
 
+#white{
+    width:250px;
+    height:350px;
+
+}
 td{
     padding-top: px;
     padding-right: 75px;
