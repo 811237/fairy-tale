@@ -14,12 +14,19 @@ h2{
     letter-spacing: 3.5px;
 }
 
+.bigger{
+    text-align: center;
+    font-family: 'Motlleg Fantasy', sans-serif;
+    letter-spacing: 3.5px;
+    font-size: 50px;
+}
+
 .left{
     padding-left:150px;
-    padding-top: 150px;
+    padding-top: 100px;
     padding-right: 90px;;
     padding-bottom: 100px;
-    width:300px
+    width:350px
 }
 h5{
     font-weight:normal;
@@ -63,13 +70,13 @@ img{
 .secondChoice:hover{
     background:rgb(172, 103, 143);
     border: 1px solid rgb(172, 103, 143);
+    font-size:30px;
 }
 
 .firstChoice:hover{
     background:rgb(172, 103, 143);
     border: 1px solid rgb(172, 103, 143);
     font-size:30px; 
-
 }
 .firstChoice{
     margin-left:150px;
@@ -95,10 +102,9 @@ img{
 
 }
 td{
-    padding-top: px;
-    padding-right: 75px;
+    padding-right: 100px;
     line-height:35px;
-    text-align:center;
+    text-align:left;
     font-size: 18px;
 }
 
