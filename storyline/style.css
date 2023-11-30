@@ -58,7 +58,7 @@ img{
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+    font-family: 'Motlleg Fantasy', sans-serif;
     font-size: 24px;
     line-height: 30px;
     padding: 16px 30px;
@@ -73,12 +73,12 @@ img{
     font-size:30px;
 }
 
-.firstChoice:hover{
+#firstChoice:hover{
     background:rgb(172, 103, 143);
     border: 1px solid rgb(172, 103, 143);
     font-size:30px; 
 }
-.firstChoice{
+#firstChoice{
     margin-left:150px;
     text-align: center;
     margin-bottom: 50px;
@@ -86,7 +86,7 @@ img{
     background: rgb(105, 52, 83);
     color: #ffffff;
     font-size: 24px;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+    font-family: 'Motlleg Fantasy', sans-serif;
     line-height: 30px;
     padding: 16px 30px;
     border-radius: 30px;
@@ -97,12 +97,12 @@ img{
 .home{
     text-align: center;
     margin-bottom: 50px;
-    margin-right:200px;
+    margin-right:150px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
     font-size: 24px;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+    font-family: 'Motlleg Fantasy', sans-serif;
     line-height: 30px;
     padding: 16px 30px;
     border-radius: 30px;
@@ -110,15 +110,27 @@ img{
     cursor: pointer;
 }
 
+#death {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    letter-spacing: 8px;
+}
+
+#death-home {
+    background-color: red;
+    border-color: red;
+}
+
 .back{
     text-align: center;
     margin-bottom: 50px;
-    margin-left:200px;
+    margin-left:150px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
     font-size: 24px;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+    font-family: 'Motlleg Fantasy', sans-serif;
     line-height: 30px;
     padding: 16px 30px;
     border-radius: 30px;
@@ -164,7 +176,7 @@ p{
     text-align: center;
     padding-left: 30px;
     margin-left: 75px;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+    font-family: 'Motlleg Fantasy', sans-serif;
     font-size: 30px;
 }
 
@@ -187,7 +199,7 @@ p{
 
 .choice {
     font-size: 24px;
-    font-family: 'Jacques Francois Shadow', 'Motlleg Fantasy', sans-serif;
+    font-family: 'Motlleg Fantasy', sans-serif;
 }
 
 
