@@ -73,12 +73,12 @@ img{
     font-size:30px;
 }
 
-.firstChoice:hover{
+#firstChoice:hover{
     background:rgb(172, 103, 143);
     border: 1px solid rgb(172, 103, 143);
     font-size:30px; 
 }
-.firstChoice{
+#firstChoice{
     margin-left:150px;
     text-align: center;
     margin-bottom: 50px;
@@ -97,7 +97,7 @@ img{
 .home{
     text-align: center;
     margin-bottom: 50px;
-    margin-right:200px;
+    margin-right:150px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
@@ -125,7 +125,7 @@ img{
 .back{
     text-align: center;
     margin-bottom: 50px;
-    margin-left:200px;
+    margin-left:150px;
     border: 1px solid #0b121b;
     background: rgb(105, 52, 83);
     color: #ffffff;
