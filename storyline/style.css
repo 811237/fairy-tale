@@ -73,12 +73,12 @@ img{
     font-size:30px;
 }
 
-.firstChoice:hover{
+#firstChoice:hover{
     background:rgb(172, 103, 143);
     border: 1px solid rgb(172, 103, 143);
     font-size:30px; 
 }
-.firstChoice{
+#firstChoice{
     margin-left:150px;
     text-align: center;
     margin-bottom: 50px;
